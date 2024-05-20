@@ -18,6 +18,6 @@ Aula sobre o salvamento de repositorios no Git e Github lecionada pela professor
  git init
  ```
 
- ## 🔍 Referencias
+ ## 🔍 
 
  [Digital Inovation One](https://www.dio.me)
